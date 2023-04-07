@@ -41,6 +41,7 @@ This project is licensed under the MIT License - see the `LICENSE.md` file for d
 ## Acknowledgements
 
 - Centre for Machine Vision, Bristol Robotics Laboratory
+- University of Bristol & The University of the West of England
 - Tom Rowland, MSc Student
 - Dr Mark Hanses, Project Supervisor
 
