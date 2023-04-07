@@ -41,10 +41,10 @@ This project is licensed under the MIT License - see the `LICENSE.md` file for d
 ## Acknowledgements
 
 - Centre for Machine Vision, Bristol Robotics Laboratory
-- [Your Name], MSc Student
-- [Supervisor Name], Project Supervisor
-- [Any other collaborators or contributors]
+- Tom Rowland, MSc Student
+- Dr Mark Hanses, Project Supervisor
+
 
 ## Contact
 
-For any questions or inquiries, please contact [Your Name] at [Your Email Address].
+For any questions or inquiries, please contact Tom Rowland at tom_rowland@outlook.com.
