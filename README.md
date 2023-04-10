@@ -28,11 +28,7 @@ This repository contains the code, documents, and datasets related to an MSc Dis
 
 ## Getting Started
 
-Please follow the instructions in the `INSTALL.md` file to set up the required dependencies and environment to run the code.
-
-## Contributing
-
-Please see `CONTRIBUTING.md` for details on how to contribute to this project.
+An 'INSTALL.md' file will be created with instructions on how to set up the environment and install the required dependancies when it is appropriate.
 
 ## License
 
