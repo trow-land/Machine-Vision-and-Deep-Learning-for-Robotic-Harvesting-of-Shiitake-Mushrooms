@@ -1,6 +1,6 @@
 # MSc-Dissertation-Shiitake-Harvest
 
-This repository contains the code, documents, and datasets related to an MSc Dissertation project focused on utilizing computer vision and robotic systems for harvesting shiitake mushrooms. The project was conducted within the Centre for Machine Vision at the Bristol Robotics Laboratory.
+This repository contains the code, documents, and datasets related to an MSc Dissertation project focused on utilising computer vision and robotic systems for harvesting shiitake mushrooms. The project was conducted within the Centre for Machine Vision at the Bristol Robotics Laboratory.
 
 ## Project Aims and Objectives
 
@@ -39,7 +39,7 @@ This project is licensed under the MIT License - see the `LICENSE.md` file for d
 - Centre for Machine Vision, Bristol Robotics Laboratory
 - University of Bristol & The University of the West of England
 - Tom Rowland, MSc Student
-- Dr Mark Hanses, Project Supervisor
+- Dr Mark Hansen, Project Supervisor
 
 
 ## Contact
