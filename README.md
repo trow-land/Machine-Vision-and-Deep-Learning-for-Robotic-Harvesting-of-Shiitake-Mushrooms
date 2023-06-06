@@ -1,4 +1,4 @@
-# Population of this repository will be limited until post submission due to self-plagiarism concerns
+# *** Population of this repository will be limited until post submission to avoid self-plagiarism ***
 
 # MSc-Dissertation-Shiitake-Harvest
 
