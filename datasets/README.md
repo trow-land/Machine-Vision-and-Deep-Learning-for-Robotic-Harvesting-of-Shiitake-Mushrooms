@@ -8,3 +8,5 @@ Details will be published as they are available as well as information on how to
 The 2D dataset is being managed via Roboflow and can be found ([here](https://universe.roboflow.com/shiitake-harvest/shiitake-harvest))
 
 The dataset contains 5,802 instances from 92 images. 
+
+![2D Dataset Example](https://github.com/trow-land/MSc-Dissertation-Shiitake-Harvest/blob/main/datasets/examples/Shiitake_2D_dataset_example.png)
