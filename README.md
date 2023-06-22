@@ -22,8 +22,7 @@ This repository contains the code, documents, and datasets related to an MSc Dis
 - Stretch Objective: Utilise 3D vision to achieve grasp pose estimation of a robotic end effector at various cut points.
 
 <!-- ![Uploading Mask-RCNN2.png…]() -->
-
-![Detectron 2 Mask R-CNN](https://github.com/trow-land/MSc-Dissertation-Shiitake-Harvest/blob/1f72ad41ce09e87a26ce1bb830adf6802b25d7f0/images/Mask-RCNN2.png)
+![Detectron 2 Mask R-CNN](https://github.com/trow-land/MSc-Dissertation-Shiitake-Harvest/blob/main/images/inference_gif.gif)
 
 ## Repository Structure
 
