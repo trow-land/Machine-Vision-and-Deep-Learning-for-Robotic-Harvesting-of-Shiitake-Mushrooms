@@ -13,7 +13,7 @@ The dataset contains 5,802 instances from 92 images.
 
 The RG-Depth dataset, also on roboflow, can be found ([here](https://universe.roboflow.com/shiitake-harvest/rg-depth-shiitake-mushroom-dataset)
 
-## Keypount cut point detection dataset
+## Keypoint cut point detection dataset
 
 The cut point dataset is currently stored on Google drive and the annotated dataset for both YOLOv8-pose and Detectron2 can downloaded through this ([link](https://drive.google.com/drive/folders/1F9fNhPb0nJCfJFHgSfpkQhekM__Jt6oe?usp=drive_link))
 
