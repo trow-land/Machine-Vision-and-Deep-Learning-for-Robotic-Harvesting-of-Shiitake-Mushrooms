@@ -1,5 +1,3 @@
-# Population of this repository will be limited until post submission to avoid self-plagiarism 
-
 # MSc Dissertation Shiitake Harvest
 
 This repository contains the code, documents, and datasets related to an MSc Dissertation project focused on utilising computer vision and robotic systems for harvesting shiitake mushrooms. The project was conducted within the Centre for Machine Vision at the Bristol Robotics Laboratory.
