@@ -14,10 +14,9 @@ This repository contains the code, documents, and datasets related to an MSc Dis
 
 - Create a dataset of Shiitake mushrooms using a 3D camera.
 - Train a 2D and 3D object detection model to detect Shiitake mushrooms on the fruiting block.
-- Determine the pose of Shiitake mushrooms in relation to the fruiting block using either 2D or 3D data.
 - Create a program that will order the detected Shiitake mushrooms and number them in a logical order for harvest.
 - Create a separate dataset of the mushroom stems and make a cut-point estimation program to determine suitable cut-points.
-- Stretch Objective: Utilise 3D vision to achieve grasp pose estimation of a robotic end effector at various cut points.
+- Train a keypoint detection program to determine suitable cut-points
 
 <!-- ![Uploading Mask-RCNN2.png…]() -->
 
