@@ -30,11 +30,8 @@ This repository contains the code, documents, and datasets related to an MSc Dis
 - `datasets/` - Contains the datasets of Shiitake mushrooms used for training and testing the models along with examples. 
 - `code/` - Contains the source code for object detection, pose estimation, cut-point estimation, and harvest planning.
 - `documentation/` - Contains project documentation, including the dissertation report, and any relevant research papers or resources.
-- `results/` - Contains the evaluation results of the implemented methods and models.
 
-## Getting Started
 
-An 'INSTALL.md' file will be created with instructions on how to set up the environment and install the required dependancies when it is appropriate.
 
 ## License
 
