@@ -1,11 +1,8 @@
 # MSc Dissertation Shiitake Harvest
-## For other ML/CV projects see [Machine Learning Projects](https://github.com/trow-land/Machine-Learning) and [Computer Vision Projects](https://github.com/trow-land/Computer-Vision-Projects)
 
 This repository contains the code, documents, and datasets related to an MSc Dissertation project focused on utilising computer vision and robotic systems for harvesting shiitake mushrooms. The project was conducted within the Centre for Machine Vision at the Bristol Robotics Laboratory.
 
-### Related Repositories
-- For more computer vision projects please see [Computer Vision Projects](https://github.com/trow-land/Computer-Vision-Projects).
-- For projects exploring the use of other machine learning techniques please refer to [Machine Learning Projects](https://github.com/trow-land/Machine-Learning).
+## For other ML/CV projects see [Machine Learning Projects](https://github.com/trow-land/Machine-Learning) and [Computer Vision Projects](https://github.com/trow-land/Computer-Vision-Projects)
 
 ## Project Aims and Objectives
 
