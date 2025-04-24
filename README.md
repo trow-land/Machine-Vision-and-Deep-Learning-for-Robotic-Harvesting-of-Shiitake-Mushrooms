@@ -2,7 +2,8 @@
 
 This repository contains the code, documents, and datasets related to an MSc Dissertation project focused on utilising computer vision and robotic systems for harvesting shiitake mushrooms. The project was conducted within the Centre for Machine Vision at the Bristol Robotics Laboratory.
 
-**This project has since been presented in Oct`24 at the 19th Internation Symposion for Visual Computing in Lake Tahoe under the title '_Machine Vision and Deep LEarning for Robotic Harvesting of Shiitake Mushrooms_'**
+**This project has since been presented in Oct`24 at the 19th Internation Symposion for Visual Computing in Lake Tahoe under the title '_Machine Vision and Deep LEarning for Robotic Harvesting of Shiitake Mushrooms._'**
+Paper can be found at [Springer](https://link.springer.com/chapter/10.1007/978-3-031-77389-1_12)
 
 ## Project Aims and Objectives
 
